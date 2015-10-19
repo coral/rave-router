@@ -1,0 +1,10 @@
+[
+    {
+      "name": "test",
+      "path": "resp",
+      "socket": true,
+      "routes": {
+        "GET /": "get"
+      }
+    }
+]

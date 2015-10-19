@@ -1,0 +1,28 @@
+{
+  "name": "rave-router",
+  "version": "1.0.0",
+  "description": "it routes like a rave",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coral/rave-router.git"
+  },
+  "keywords": [
+    "rave",
+    "router"
+  ],
+  "author": "coral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coral/rave-router/issues"
+  },
+  "homepage": "https://github.com/coral/rave-router#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "socket.io": "^1.3.7"
+  }
+}
